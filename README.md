@@ -1,1 +1,1 @@
-Basic theme built from Underscores with Masonry
+Basic starter theme built from Underscores with Masonry and Bootstrap added.
