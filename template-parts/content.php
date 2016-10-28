@@ -25,9 +25,9 @@
 								<div class="textbox topleft">
 								<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
 							</div>
-								<div class="textbox bottomright">
+								<!-- <div class="textbox bottomright">
 								<?php the_excerpt(); ?>
-							</div>
+								</div> -->
 							</div>
 							<?php the_post_thumbnail(); ?>
 						</div>
