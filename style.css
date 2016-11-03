@@ -559,6 +559,8 @@ a:active {
 .main-navigation a {
 	display: block;
 	text-decoration: none;
+	font-size: 12px;
+	text-decoration: underline;
 }
 
 .main-navigation ul ul {
