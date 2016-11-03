@@ -13,7 +13,7 @@
 
 	</div><!-- #content -->
 
-	<div class="copyright" style="padding:80px 0;text-align: center;">
+	<div class="copyright">
 		<p>&copy; copyright <script>document.write(new Date().getFullYear())</script> <?php bloginfo( 'name' ); ?></p>
 	</div>
 

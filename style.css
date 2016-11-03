@@ -1015,7 +1015,8 @@ object {
 	height:100%;
 }
 
-
-
-
+.copyright {
+	padding:80px 0;
+	text-align: center;
+}
 
