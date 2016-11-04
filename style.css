@@ -923,9 +923,9 @@ object {
     padding: 0;
     margin: 0;
     vertical-align: bottom;   
-      -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .nopadding {
@@ -983,9 +983,10 @@ object {
 }
 
 .imagecontainer:hover img{
+	cursor: pointer;
 	-webkit-transition: all 350ms cubic-bezier(0.47, 0, 0.745, 0.715);
     transition: all 350ms cubic-bezier(0.47, 0, 0.745, 0.715); 
-	cursor: pointer;
+	
 
 
 }
